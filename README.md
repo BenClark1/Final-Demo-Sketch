@@ -1,6 +1,6 @@
 # Egg Transporter Robot
 
-This program was written for an egg transporter robot. The robot is controlled with an Arduino Mega and it can autonomously follow a curving black line, detect obstacles, play musical notes, and control a two-door mechanical system for dispensing an egg into a cup. The program is set up for the robot to avoid one obstacle, then expect the end of the line where the egg will be dispensed.
+This program was written for an egg transporter robot. The robot is controlled with an Arduino Mega and it can autonomously follow a curving black line, detect obstacles, play musical notes, and control a two-door mechanical system for dispensing an egg into a cup. The program is set up for the robot to avoid one obstacle, then sense the end of the line where the egg will be dispensed.
 
 I am always trying to learn from my mistakes, so please [provide feedback or suggestions for improvement](https://github.com/BenClark1/Final-Demo-Sketch/issues). Your input is much appreciated.
 
